@@ -7,6 +7,7 @@ const result = doubleIt(5);
 
 //ES6 arrow function
 const doubleIt2 = num => num * 2; // => er pore holo return value
+// console.log(doubleIt2 (20));
 
 //akadhik parameter thakle
 const add = (x, y) => x + y;
